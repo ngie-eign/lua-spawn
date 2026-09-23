@@ -1,0 +1,3 @@
+[submodule "vendor/lua-compat-5.3"]
+	path = vendor/lua-compat-5.3
+	url = https://github.com/lunarmodules/lua-compat-5.3
