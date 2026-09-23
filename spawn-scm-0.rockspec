@@ -24,7 +24,7 @@ build = {
 				"_POSIX_C_SOURCE=200809L";
 				"_GNU_SOURCE";
 			};
-			incdirs = { "vendor/compat-5.3/c-api/" };
+			incdirs = { "vendor/lua-compat-5.3/c-api/" };
 			sources = {
 				"spawn/posix.c";
 			};
